@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I`m Ayoub! (🇩🇪)
 
-<!--
-**aysib07/aysib07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### •💻Developer •🧑‍🎓Student •🕦17 years old
 
-Here are some ideas to get you started:
+Since 2020, when I was 12, I've been diving into the world of developing and exploring the realms of JavaScript and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But that's just the tip of the iceberg! I love experimenting on new stuff and always eager to learn and grow.
+
+## 🔧 Tech Stack and Tools
+![Langauges](https://skillicons.dev/icons?i=js,ts,html,css)
+![Libraries](https://skillicons.dev/icons?i=nodejs,discordjs,nuxt,vue)
+![Tools](https://skillicons.dev/icons?i=docker,mysql,redis,webstorm)
+
+## 🛠️ Projects I`m Working On
+- Abifinum: A web app for my high school graduating class
+- sLive: A tool that make it easier to interact with the Twitch API
+
+## 🌐 My Discord Profile
+[![Discord Presence](https://lanyard.cnrad.dev/api/789814620280979467)](https://discord.com/users/789814620280979467)
