@@ -13,7 +13,7 @@ But that's just the tip of the iceberg! I love experimenting on new stuff and al
 
 ## 🛠️ Projects I`m Working On
 - Abifinum: A web app for my high school graduating class
-- sLive: A tool that make it easier to interact with the Twitch API
+- twiveSDK: A tool that make it easier to interact with the Twitch API
 
 ## 🌐 My Discord Profile
 [![Discord Presence](https://lanyard.cnrad.dev/api/789814620280979467)](https://discord.com/users/789814620280979467)
