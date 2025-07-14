@@ -12,7 +12,6 @@ But that's just the tip of the iceberg! I love experimenting on new stuff and al
 ![Tools](https://skillicons.dev/icons?i=docker,mysql,redis,webstorm)
 
 ## 🛠️ Projects I`m Working On
-- Abifinum: A web app for my high school graduating class
 - twiveSDK: A tool that make it easier to interact with the Twitch API
 
 ## 🌐 My Discord Profile
