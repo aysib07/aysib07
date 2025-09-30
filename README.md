@@ -12,7 +12,8 @@ But that's just the tip of the iceberg! I love experimenting on new stuff and al
 ![Tools](https://skillicons.dev/icons?i=docker,mysql,redis,webstorm)
 
 ## 🛠️ Projects I`m Working On
-- [twiveSDK:](https://github.com/twiveSDK) A powerful library for easily creating your own projects with the Twitch API
+- twiveSDK: A powerful library for easily creating your own projects with the Twitch API [See more](https://github.com/twiveSDK)
+- Adventfinum: A christmas charity event for my school
 
 ## 🌐 My Discord Profile
 [![Discord Presence](https://lanyard.cnrad.dev/api/789814620280979467)](https://discord.com/users/789814620280979467)
