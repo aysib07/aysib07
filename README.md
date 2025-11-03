@@ -1,6 +1,6 @@
 # 👋 Hi, I`m Ayoub! (🇩🇪)
 
-### •💻Developer •🧑‍🎓Student •🕦17 years old
+### •💻Developer •🧑‍🎓Student
 
 Since 2020, when I was 12, I've been diving into the world of developing and exploring the realms of JavaScript and TypeScript.
 
