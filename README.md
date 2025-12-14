@@ -1,10 +1,6 @@
 # 👋 Hi, I`m Ayoub! (🇩🇪)
 
-### •💻Developer •🧑‍🎓Student
-
-Since 2020, when I was 12, I've been diving into the world of developing and exploring the realms of JavaScript and TypeScript.
-
-But that's just the tip of the iceberg! I love experimenting on new stuff and always eager to learn and grow.
+### 💻Developer •🧑‍🎓Student
 
 ## 🔧 Tech Stack and Tools
 ![Langauges](https://skillicons.dev/icons?i=js,ts,html,css)
