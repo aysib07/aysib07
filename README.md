@@ -5,7 +5,7 @@
 ## 🔧 Tech Stack and Tools
 ![Langauges](https://skillicons.dev/icons?i=js,ts,html,css)
 ![Libraries](https://skillicons.dev/icons?i=nodejs,discordjs,nuxt,vue)
-![Tools](https://skillicons.dev/icons?i=docker,mysql,redis,webstorm)
+![Tools](https://skillicons.dev/icons?i=docker,mysql,redis,webstorm,git,postgres)
 
 ## 🛠️ Projects I`m Working On
 - twiveSDK: A powerful library for easily creating your own projects with the Twitch API [See more](https://github.com/twiveSDK)
