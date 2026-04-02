@@ -3,7 +3,7 @@
 ### 💻Developer •🧑‍🎓Student
 
 ## 🔧 Tech Stack and Tools
-![Langauges](https://skillicons.dev/icons?i=js,ts,html,css)
+![Langauges](https://skillicons.dev/icons?i=js,ts,html,css,swift)
 ![Libraries](https://skillicons.dev/icons?i=nodejs,discordjs,nuxt,vue)
 ![Tools](https://skillicons.dev/icons?i=docker,mysql,redis,webstorm,git,postgres)
 
